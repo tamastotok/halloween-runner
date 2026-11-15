@@ -15,7 +15,7 @@ A kód szigorúan szétválasztja a statikus konfigurációt és a dinamikus já
 
 ---
 
-## 🛠️ Hátralévő Feladatok (Handoff)
+## Hátralévő Feladatok
 
 A játékmechanika befejezéséhez az alábbi három logikai lépést kell kidolgozni a meglévő alapokon.
 
